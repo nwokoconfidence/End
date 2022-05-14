@@ -1,0 +1,230 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+    width: 100%;
+    background-color: white;
+    font-family: sans-serif;
+}
+nav{
+    height: 8vh;
+    background-color:rgb(22, 44, 44);
+}
+.end-it{
+    height: 75vh;
+    background-image: url("../hero-bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.omah-lay{
+    height: inherit;
+    background-color: white;
+    opacity: 0.3;
+}
+.end{
+    height: inherit;
+    width: 100%;
+    position: absolute;
+    top: 55px;
+}
+.end h1{
+    text-align: center;
+    margin-top: 60px;
+    font-size: 45px;
+    color:#ffff;
+}
+.end p{
+    text-align: center;
+    margin-top: 10px;
+    color: rgb(238, 238, 51);
+}
+.grain{
+ width: 90%;
+ position: absolute;
+ top: 400px;
+ right: 64px;
+ background-color: violet;
+ display: grid;
+ grid-template-columns: 2fr 1fr;
+}
+.our{
+    height: 37vh;
+    background-color: gainsboro;
+}
+.our h2{
+    text-align: center;
+    margin-top: 40px;
+}
+.our p{
+    font-size: 14px;
+    text-align: center;
+}
+.take{
+    height: 37vh;
+    background-image: url("../client-2.jpg");
+    background-size: cover;
+}
+   .red-lay{
+    height: inherit;
+    background-color: red;
+    opacity: 0.7;
+   }
+   .look{
+    height: inherit;
+    width: 379px;
+    position: absolute;
+    top: 0px;
+   }
+   .prend{
+       margin-top: 50px;
+   }
+   .look p{
+       text-align: center;
+       font-size: 23px;
+       font-weight: 600;
+       color: white;
+   }
+   .btn{
+       text-align: center;
+       margin-top: 30px;
+       margin-left: 138px;
+       height: 28px;
+       width: 100px;
+       border-radius: 30px;
+       border: none;
+       color: red;
+   }
+.lat{
+    height: 37vh;
+    background-color: rgb(8, 170, 108);
+}
+.lat h2{
+    text-align: center;
+    margin-top: 40px;
+    color: white;
+}
+.lat p{
+    font-size: 14px;
+    text-align: center;
+}
+.sub{
+    height: 37vh;
+    background-color: rgb(1, 29, 29);
+}
+.sub h2{
+    text-align: center;
+    margin-top: 40px;
+    color: white;
+}
+.sub p{
+    font-size: 14px;
+    text-align: center;
+}
+.scribe{
+    margin-top: 40px;
+    color: rgb(172, 170, 170);
+}
+.space{
+    height: 55vh;
+}
+.event{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 20px;
+}
+.event-pics{
+    width: 65%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 40px;
+    margin-left: 225px;
+    grid-column-gap:12px;
+}
+.first{
+    height: 35vh;
+    background-image: url("../end.jpg");
+    background-size: cover;
+}
+.second {
+    height: 35vh;
+    background-image: url("../client-2.jpg");
+    background-size: cover;
+}
+.third{
+    height: 35vh;
+    background-image: url("../client-1.jpg");
+    background-size: cover;
+}
+.fourth{
+    height: 35vh;
+    background-color: white;
+}
+.fourth h3{
+    color: rgb(1, 29, 29);
+    text-align: center;
+    margin-top: 40px;
+}
+.deliver{
+    font-size: 19px;
+    font-weight: 600;
+    color: rgb(1, 29, 29);
+    text-align: center;
+}
+.jan{
+    font-size: 14px;
+    text-align: center;
+    margin-top: 10px;
+}
+button{
+    height: 30px;
+    width: 110px;
+    border-radius:30px ;
+    border: none;
+    background-color: rgb(1, 29, 29);
+    color: white;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+.fifth{
+    height: 35vh;
+    background-color: white;
+}
+.fifth h3{
+    color: rgb(1, 29, 29);
+    text-align: center;
+    margin-top: 40px;
+}
+.sixth{
+    height: 35vh;
+    background-color: white;
+}
+.sixth h3{
+    color: rgb(1, 29, 29);
+    text-align: center;
+    margin-top:40px;
+}
+.last{
+    height: 15vh;
+    background-image: url("../hero-bg.jpg");
+    background-size: cover;
+    background-position:center ;
+    width: 98%;
+    margin-left: 10px;
+}
+.red-lay2{
+    height: inherit;
+    background-color: red;
+    opacity: 0.4;
+}
+.yes{
+    height: 15vh;
+    position: absolute;
+    top: 0;
+    width: 98%;
+}
+.latest{
+    height: 10vh;
+}
